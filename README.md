@@ -9,7 +9,7 @@
 -    In fact, studies show that up to 70% of people experience this at some point in their careers!
 -    It's a common feeling, but with time and experience, most graduates find their confidence and place in the workforce.
 -    I'm one of those who is confused but I'm not giving up I will continue to pursue my passion in coding,  even though I'm lost right now.
--    I will never give up I will find Roger treasure!!
+-    I will find Roger treasure!!
 
 <!---
 Chocalati/Chocalati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
