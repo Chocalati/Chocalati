@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Chocalati
-- 👀 I’m interested in web development 
+- 👀 Web development 
 - 🌱 I’m currently learning in php, CSS, java, JavaScript, C#, reactjs
-- 💞️ I love cats.
 - 📫 How to reach me https://www.linkedin.com/in/michael-glen-encenzo-22abb92a2
 - 😄 Pronouns: ChukoLit
 - Portfolio https://chocalatiportfolio.netlify.app/
